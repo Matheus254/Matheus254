@@ -13,7 +13,7 @@
 
 ## 🚀 Sobre Mim
 <div align="left">
-  🔹 Estudante do Técnico em Informática Integrado ao EM no IFBA<br>
+  🔹 Estudante do Técnico em Informática Integrado no IFBA<br>
   🔹 Certificado pela Microsoft em Machine Learning<br>
   🔹 Apaixonado por soluções de IA com impacto social
 </div>
